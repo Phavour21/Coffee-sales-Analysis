@@ -47,7 +47,7 @@ To ensure the accuracy and reliability of the analysis, the Coffee Sales Dataset
 - Calculated key performance indicators (KPIs) such as total revenue, average price, total transactions, and customer count.
 - Aggregated sales data by coffee type, payment method, and time period to identify trends and patterns.
 - Prepared the cleaned dataset for visualization and dashboard development in Power BI.
-### Analysis and Visualzation 
+### Analysis and Visualization 
 The Coffee Sales Dashboard analyzes sales performance, customer behavior, payment preferences, and product demand using key metrics such as revenue, transactions, customers, and pricing.
 The analysis includes revenue trends, customer transaction patterns, payment method distribution (Cash vs Card), coffee type performance, monthly sales trends, and sales across different periods of the day (Morning, Afternoon, and Evening).
 To present these insights, the dashboard utilizes:
