@@ -6,8 +6,8 @@
 - [Dataset](#Dataset-Description)
 - [Data-Cleaning](#Data-Cleaning)
 - [Data-Processing](#Data-Processing)
-- [Analysis and Visualization](#Data-Analysis-and-Visualization)
-- [Insight and Reccomendation](#Data-Insight-and-Recommendation)
+- [Analysis and Visualization](#Analysis-and-Visualization)
+- [Insight and Reccomendation](#Insight-and-Recommendation)
 - [Conclusion](#Conclusion)
 
 
