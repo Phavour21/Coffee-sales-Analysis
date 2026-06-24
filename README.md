@@ -1,5 +1,17 @@
 # Coffee-sales-Analysis
-## PROJECT DESCRIPTION 
+- [Title](#Coffee-sales-Analysis)
+- [Description](#Project-Description)
+- [Overview](#Business-Overview)
+- [Aim](#Aim-of-Project)
+- [Dataset](#Dataset-Description)
+- [Data-Cleaning](#Data-Cleaning)
+- [Data-Processing](#Data-Processing)
+- [Analysis and Visualization](#Data-Analysis-and-Visualization)
+- [Insight and Reccomendation](#Data-Insight-and-Recommendation)
+- [Conclusion](#Conclusion)
+
+
+## Project Description 
 This project analyzes coffee sales data to uncover key business insights and customer purchasing patterns. Using data cleaning, exploratory data analysis (EDA), and visualization techniques, it examines sales performance, customer preferences, payment methods, and peak transaction periods. The analysis identifies revenue trends, best-selling products, and customer buying behaviors, providing actionable insights that can help coffee shop owners optimize inventory, improve marketing strategies, and enhance operational efficiency. Overall, the project demonstrates how data analytics can support informed decision-making and drive business growth in the coffee retail industry.
 ### Business Overview 
 The coffee shop business plays an important role in the food and beverage industry by providing customers with coffee, refreshments, and a comfortable environment for social and professional activities. Success in this industry depends on understanding customer preferences, managing operations efficiently, and adapting to market trends. By analyzing sales data, coffee shops can gain valuable insights into product performance, customer behavior, and revenue patterns. These insights support informed decision-making, helping businesses improve customer satisfaction, optimize operations, increase profitability, and achieve sustainable growth.
@@ -45,3 +57,7 @@ To present these insights, the dashboard utilizes:
 - Line Charts to track monthly sales trends.
 - Clustered Column Charts to analyze sales by coffee type and hour grade.
 - Slicers (Filters) for Month Name and Payment Method to enable interactive exploration of the data.
+
+- <img width="803" height="380" alt="coffee sales dashboard" src="https://github.com/user-attachments/assets/13fb973f-96c2-42b7-a617-7051326c139b" />
+
+### Insight and Recommendation
